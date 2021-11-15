@@ -29,7 +29,6 @@ def baixar():
     label2.grid(row= 3,  columnspan = 3)
     link_input.delete(0,END)
 
-
 #---------------------------------------------------------------------
 # Layout
 
@@ -44,8 +43,4 @@ label_digita.grid(row= 1,  column=0)
 link_input.grid(row= 1,  column=1)
 btn.grid(row= 1,  column=2)
 #---------------------------------------------------------------------
-
-
-
-
 root.mainloop()
