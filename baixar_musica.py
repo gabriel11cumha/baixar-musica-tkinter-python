@@ -1,5 +1,3 @@
-#Instagram: @hey.maia4
-#Git hub: gabriel11cumha
 
 from tkinter import *
 from pytube import YouTube
